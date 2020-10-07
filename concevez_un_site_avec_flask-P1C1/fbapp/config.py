@@ -1,0 +1,2 @@
+SECRET_KEY=aihae3ohze8caequee8ohhayu6ees8ohkeeyowie^yaeX8zaey
+FB_APP_ID=337054571078669
